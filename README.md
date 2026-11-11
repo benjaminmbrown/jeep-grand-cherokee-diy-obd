@@ -7,6 +7,16 @@ Plug a USB OBD-II adapter into your Jeep, run one command on your laptop, and ge
 - **Health checks**: battery and charging voltage, fuel trims, coolant temperature, emissions readiness
 - **Next steps**, ranked by priority
 
+## 🛒 The one thing you need to buy
+
+This tool talks to your Jeep through a USB adapter. It's built and tested around the **OBDLink EX**:
+
+### [👉 Get the OBDLink EX USB adapter on Amazon](https://link.amazon/B0fmKRCjO)
+
+[![Buy the OBDLink EX on Amazon](https://img.shields.io/badge/Buy%20on%20Amazon-OBDLink%20EX%20USB%20Adapter-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://link.amazon/B0fmKRCjO)
+
+<sub>As an Amazon Associate I earn from qualifying purchases. It costs you nothing extra, and this tool stays free either way.</sub>
+
 ![Transmission tab of the dashboard, built from demo data](docs/dashboard-transmission.png)
 
 **It is read-only.** It never clears codes, never changes settings, and never writes anything to your vehicle. The worst it can do is fail to connect.
@@ -22,7 +32,7 @@ Built for the **2014 and newer Jeep Grand Cherokee (WK2) with the 8-speed automa
 | | |
 |---|---|
 | **A laptop** | Windows 10/11 (recommended). Mac and Linux work too, except the "press M to mark a symptom" key. |
-| **A USB OBD-II adapter** | **OBDLink EX** is recommended. Other ELM327-compatible adapters may work, but cheap clones often drop the connection or can't reach the transmission computer. |
+| **A USB OBD-II adapter** | **[OBDLink EX](https://link.amazon/B0fmKRCjO)** (recommended; affiliate link). Other ELM327-compatible adapters may work, but cheap clones often drop the connection or can't reach the transmission computer. |
 | **About 10 minutes** | For the one-time install. |
 
 ---
