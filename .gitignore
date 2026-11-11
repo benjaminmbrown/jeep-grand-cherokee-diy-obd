@@ -1,0 +1,14 @@
+# Python / uv
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+
+# Personal vehicle data (contains your VIN). Never commit.
+scans/
+notes.json
+dashboard.html
+JeepOBD/
